@@ -16,14 +16,14 @@ intro_text: |
 # The link that is used for the resume button, below the intro text on the
 # portfolio home page. This link will also be used in the drop down menu. If
 # you don't want the resume link to show up, set the resume value to null.
-resume: '/assets/files/WeiJing_Resume.docx'
+resume: '/assets/files/WeiJing_Resume.pdf'
 resume_link_title: Download Resume
 
 # The items that will show up in the drop down menu (in addition to the resume
 # link, if given).
 menu:
 - {name: 'Projects', url: ' '}
-- {name: 'Blog',     url: 'blog'}
+# - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
