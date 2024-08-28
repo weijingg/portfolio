@@ -1,10 +1,10 @@
 ---
 layout: about
 title: About Me
-headshot: /assets/img/headshot.webp
+headshot: /assets/img/pfp.JPG
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Wei Jing Ang
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I love maps and collecting rocks. As a fresh graduate with a major in Earth Science and specialisation in Geoscience, I have three journal publications and three years of research experience in GIS, remote sensing, hydrology, and geomorphology. I enjoy constantly learning new things, and I’m looking to broaden my experience in GIS and data visualisation, especially in cartographic design and urban analytics. With an interest in foreign cultures and minor in Modern Languages, I’m fluent in English, Chinese, and Japanese.
